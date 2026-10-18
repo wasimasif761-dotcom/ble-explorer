@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "BLE Device Explorer",
+  "short_name": "BLE Explorer",
+  "description": "Progressive Web App for scanning, connecting, and exploring Bluetooth Low Energy (BLE) devices, GATT services, and characteristics.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f0f4f8",
+  "theme_color": "#0b5ed7",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

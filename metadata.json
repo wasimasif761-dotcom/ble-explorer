@@ -1,0 +1,10 @@
+{
+  "name": "BLE Device Explorer",
+  "description": "Progressive Web App for scanning, connecting, and exploring Bluetooth Low Energy (BLE) devices, GATT services, and characteristics.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
